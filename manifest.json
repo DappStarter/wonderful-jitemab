@@ -1,0 +1,9 @@
+{
+    "name": "Kest",
+    "blocks": {
+        "/blockchain/klaytn": true,
+        "/blockchain/klaytn/solidity": true,
+        "/framework/react": true,
+        "/category/file_storage": false
+    }
+}
